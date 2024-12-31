@@ -1,5 +1,4 @@
 ~~~~bash
-Directory Structure
 Directory structure:
 └── mihirksingh21-ExpenseTracker/
     ├── gradle.properties
